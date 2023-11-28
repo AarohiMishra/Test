@@ -1,3 +1,3 @@
 # Snake_game
-My first GitHub repository
+My first GitHub repository<br>
 Author -Aarohi
