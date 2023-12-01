@@ -1,4 +1,4 @@
-# Snake_game
+# Test
 My first GitHub repository<br>
 Author -Aarohi
 <!-- cd change directory -->
